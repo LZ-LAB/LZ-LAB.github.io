@@ -39,20 +39,20 @@ My current research focuses on the comprehensive evaluation of large models, aim
 # Selected Projects
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=OlympiadBench)](https://github.com/OpenBMB/OlympiadBench) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=OlympiadBench)](https://github.com/OpenBMB/OlympiadBench) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=MiniCPM)](https://github.com/OpenBMB/MiniCPM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=MiniCPM)](https://github.com/OpenBMB/MiniCPM)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=UltraEval)](https://github.com/OpenBMB/UltraEval)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=UltraEval)](https://github.com/OpenBMB/UltraEval)
 
 # Awards
 
-- Friends of Tsinghua-Wuhan Excellence Scholarship 2023 
+- Friends of Tsinghua-Wuhan Excellence Scholarship 2023.
 
 - The CCF Elite Collegiate Award 2019. 
 
   Only 73 in the whole country.
   
-- Global Second Prize in the 2019 ASC World Student Supercomputer Competition
+- Global Second Prize in the 2019 ASC World Student Supercomputer Competition.
 
 - National Encouragement scholarship 2017.
