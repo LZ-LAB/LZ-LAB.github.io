@@ -24,7 +24,7 @@ My current research focuses on the comprehensive evaluation of large models, aim
 
 # Publications
 
-* OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems. *Preprint*  
+* [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008). *Preprint*  
   
   <span style="color: red;">An Olympiad-level bilingual multimodal scientific benchmark</span>
   
