@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year master student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).  
 
-My current research focuses on the comprehensive evaluation of large models, aiming to uncover predictable scaling laws and unlock the potential of model training. This involves a thorough assessment of foundational model capabilities, including logic, reasoning, knowledge, and coding skills. I am dedicated to exploring new capabilities and developing novel metrics to establish scaling curves, thereby facilitating the training of large models."
+My current research focuses on the scalable oversight and comprehensive evaluation of large models, aiming to uncover predictable scaling laws and unlock the potential of model training."
 
 
 # News!
@@ -30,7 +30,7 @@ My current research focuses on the comprehensive evaluation of large models, aim
   
   **Chaoqun He**, Renjie Luo, Yuzhuo Bai, Shengding Hu, Zhen Leng Thai, Junhao Shen, Jinyi Hu, Xu Han, Yujie Huang, Yuxiang Zhang, Jie Liu, Lei Qi, Zhiyuan Liu, Maosong Sun
 
-* [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262). *Preprint*  
+* [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262). *Preprint-ICLR 2024*  
   
   <span style="color: red;">The first work that achieves predictable scaling besides GPT-4</span>
   
