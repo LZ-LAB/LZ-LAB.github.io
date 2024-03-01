@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year master student from [the Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am fortunately supervised by Professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).  
 
-My current research focuses on the scalable oversight and comprehensive evaluation of large models, aiming to uncover predictable scaling laws and unlock the potential of model training."
+My current research focuses on the scalable oversight and comprehensive evaluation of large models, aiming to uncover predictable scaling laws and unlock the potential of model training.
 
 
 # News!
