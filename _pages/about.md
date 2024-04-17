@@ -13,6 +13,7 @@ My current research focuses on the scalable oversight and comprehensive evaluati
 
 
 # News!
+🔥 **2024.4** We release [UltraEval paper](https://arxiv.org/abs/2404.07584).A user-friendly LLM evaluation framework characterized by lightweight, comprehensiveness, modularity, and efficiency!
 
 🔥 **2024.2** We release [OlympiadBench](https://github.com/OpenBMB/OlympiadBench). An Olympiad-level bilingual multimodal scientific benchmark!
 
@@ -23,6 +24,11 @@ My current research focuses on the scalable oversight and comprehensive evaluati
 🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
 
 # Publications
+* [UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs](https://arxiv.org/abs/2404.07584). *Preprint*  
+  
+  <span style="color: red;">A user-friendly LLM evaluation framework characterized by lightweight, comprehensiveness, modularity, and efficiency!</span>
+  
+  **Chaoqun He**, Renjie Luo, Shengding Hu, Yuanqian Zhao, Jie Zhou, Hanghao Wu, Jiajie Zhang, Xu Han, Zhiyuan Liu, Maosong Sun
 
 * [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008). *Preprint*  
   
