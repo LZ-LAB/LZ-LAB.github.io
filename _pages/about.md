@@ -24,6 +24,11 @@ My current research focuses on the scalable oversight and comprehensive evaluati
 🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
 
 # Publications
+
+* [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395). *Preprint*  
+  
+Shengding Hu, Yuge Tu, Xu Han, **Chaoqun He**, Ganqu Cui, Xiang Long, Zhi Zheng, Yewei Fang, Yuxiang Huang, Weilin Zhao, Xinrong Zhang, Zheng Leng Thai, Kaihuo Zhang, Chongyi Wang, Yuan Yao, Chenyang Zhao, Jie Zhou, Jie Cai, Zhongwu Zhai, Ning Ding, Chao Jia, Guoyang Zeng, Dahai Li, Zhiyuan Liu, Maosong Sun
+
 * [UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs](https://arxiv.org/abs/2404.07584). *Preprint*  
   
   <span style="color: red;">A user-friendly LLM evaluation framework characterized by lightweight, comprehensiveness, modularity, and efficiency!</span>
