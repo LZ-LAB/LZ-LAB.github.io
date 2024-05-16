@@ -35,7 +35,7 @@ My current research focuses on the scalable oversight and comprehensive evaluati
   
   **Chaoqun He**, Renjie Luo, Shengding Hu, Yuanqian Zhao, Jie Zhou, Hanghao Wu, Jiajie Zhang, Xu Han, Zhiyuan Liu, Maosong Sun
 
-* [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008). *Preprint*  
+* [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008). *Preprint-ACL 2024*  
   
   <span style="color: red;">An Olympiad-level bilingual multimodal scientific benchmark</span>
   
