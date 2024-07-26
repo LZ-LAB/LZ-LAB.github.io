@@ -27,7 +27,7 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 # Main Publications
 */ indicates equal contribution.
 
-1. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. (CCF-A, SCI-1) [Paper Download](https://doi.org/10.1109/TKDE.2024.3365727)
+1. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. (CCF-A, SCI-1) [[Paper Download](https://doi.org/10.1109/TKDE.2024.3365727)]
 2. 
 3. 
 4.
