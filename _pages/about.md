@@ -17,7 +17,7 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 
 
 # News!
-🔥 **2024.4** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
+🔥 **2024.7** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
 
 
 
