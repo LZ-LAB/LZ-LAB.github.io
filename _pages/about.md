@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-I am a PhD student from the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. My research interests lie in Knowledge Graph, Responsible AI, and FinTech. I am honored to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation.
-
+I am a PhD student in Computer Science and Technology at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. My research interests lie in Knowledge Graph, Responsible AI, and FinTech. I am honored to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation.
 
 
 # News!
