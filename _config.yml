@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Chaoqun He / 贺超群"
+title                    : "Zhao Li / 李钊"
 title_separator          : "-"
-name                     : &name "Chaoqun"
-description              : &description "Master student @ Tsinghua University"
-url                      : https://hothan01.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhao"
+description              : &description "PhD student @ Tianjin University"
+url                      : https://lz-lab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hothan01/hothan01.github.io"
 
@@ -21,20 +21,20 @@ repository               : "Hothan01/hothan01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic2.jpg"
-  name             : "Chaoqun He"
+  avatar           : "zhaoli.jpg"
+  name             : "Zhao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Master at Department of Computer Science and Technology, Tsinghua University. Focus on NLP and LLM."
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  bio              : "PhD student @ Tianjin University"
+  location         : "Tianjin, China"
+  employer         : "Tianjin University"
   uri              : # URL
-  email            : "hechaoqun1998@gmail.com" 
+  email            : "lizh@tju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=hTVIwkwAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=QEOhVT8AAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : 
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0003-3996-255X"
   pubmed           : 
   researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Hothan01"
+  github           : "LZ-LAB"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/Hothan01"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
