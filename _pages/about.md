@@ -37,6 +37,7 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 8. Yuxin Shen *\, **Zhao Li** *\, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
 9. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, and Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks[C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
 10. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure[C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
+11. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. arXiv preprint arXiv:2407.00936, 2024. **(ArXiv)** [[Paper](https://arxiv.org/abs/2407.00936)]
 
 
 
