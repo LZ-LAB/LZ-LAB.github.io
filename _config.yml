@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Zhao Li / 李钊"
 title_separator          : "-"
 name                     : &name "Zhao"
