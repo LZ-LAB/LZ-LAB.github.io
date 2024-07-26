@@ -36,30 +36,12 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 7. Yuxin Shen *\, **Zhao Li** *\, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
 8. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, and Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks[C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
 9. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure[C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
-10. Shaowei Zhang *\, **Zhao Li** *\, Xin Wang, Zirui Chen, and WenBin Guo. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network [C]. In Advanced Data Mining and Applications: 19th International Conference (ADMA 2023). 2023: 46–61. **(CCF-C)** [[Paper](https://doi.org/10.1007/978-3-031-46664-9_4)]
 
 
 
 
 
 
-# Selected Projects
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=OlympiadBench)](https://github.com/OpenBMB/OlympiadBench) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=MiniCPM)](https://github.com/OpenBMB/MiniCPM)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=UltraEval)](https://github.com/OpenBMB/UltraEval)
 
 # Awards
-
-- Friends of Tsinghua-Wuhan Excellence Scholarship 2023.
-
-- The CCF Elite Collegiate Award 2019. 
-
-  Only 73 in the whole country.
-  
-- Global Second Prize in the 2019 ASC World Student Supercomputer Competition.
-
-- National Encouragement scholarship 2017.
