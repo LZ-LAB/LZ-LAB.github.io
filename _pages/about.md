@@ -12,18 +12,31 @@ redirect_from:
 I am a PhD student in Computer Science and Technology at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. My research interests lie in Knowledge Graph, Responsible AI, and FinTech. I am honored to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation.
 
 
+
+
+
+
 # News!
-🔥 **2024.4** We release [UltraEval paper](https://arxiv.org/abs/2404.07584).A user-friendly LLM evaluation framework characterized by lightweight, comprehensiveness, modularity, and efficiency!
+🔥 **2024.4** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
 
-🔥 **2024.2** We release [OlympiadBench](https://github.com/OpenBMB/OlympiadBench). An Olympiad-level bilingual multimodal scientific benchmark!
 
-🔥 **2024.2** [MiniCPM](https://github.com/OpenBMB/MiniCPM) has been released, using [UltraEval](https://ultraeval.openbmb.cn/home) as its evaluation framework!
 
-🔥 **2023.11** We release [UltraEval](https://ultraeval.openbmb.cn/home). A platform for easy evaluation of LLMs' well-rounded ability!
 
-🔥 **2023.9** [The first sucessful attempt on predictable scaling](https://arxiv.org/abs/2310.03262) was released! 
 
-# Publications
+
+# Main Publications
+*/ indicates equal contribution.
+
+1. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. (CCF-A, SCI-1) [Paper Download](https://doi.org/10.1109/TKDE.2024.3365727)
+2. 
+3. 
+4.
+5.
+6. 
+
+
+
+
 
 * [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395). *Preprint*  
   
