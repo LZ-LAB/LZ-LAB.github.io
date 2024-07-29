@@ -46,20 +46,14 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 
 
 # Professional Activities
-## PC Member or Reviewer:
+### PC Member or Reviewer:
+- **Conference:** KDD, CIKM, , 
 
-#### PC Member or Reviewer:
+- **Journal:** KBS, IEEE , WWWJ
 
-##### PC Member or Reviewer:
-:
-The Web Conference 2021
-EMNLP 2022
-NeurIPS 2022
-ACL 2023
-SIGIR 2023
-Journal Reviews:
-IEEE Transactions on Knowledge and Data Engineering (TKDE)
-AI Open
+
+
+
 
 # Honors & Awards
 
