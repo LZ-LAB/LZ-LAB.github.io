@@ -44,7 +44,8 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # Projects
-- 《基于大数据技术的普惠信贷服务》项目入选中国人民银行金融科技创新应用监管沙盒（技术负责人）
+- 《基于大数据技术的普惠信贷服务》项目入选中国人民银行金融科技创新应用监管沙盒，2022
+- 《大数据风控技术在商业银行的应用与创新》获得宁夏金融学会课题研究三等奖，2020
 
 
 # Professional Activities
@@ -54,7 +55,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 - **Journal:** KBS、IEEE TCSS、WWWJ、BDR
 
 ### Core Member
-- The IEEE Standard of Financial Knowledge Graph (2807.2)
+- The IEEE Standard of Financial Knowledge Graph (2807.2), 2024
 
 
 
@@ -64,12 +65,12 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 - 天津大学三好学生
 - 天津大学科技创新先进个人
 - 天津大学国际交流先进个人
-- APWeb-WAIM 2022 Outstanding Student Paper Award
-- 京津冀计算机学科群第二届研究生学术会议论文三等奖
-- 美国大学生数学建模大赛国际二等奖Honorable Mention（2016年）
-- 全国大学生数学建模大赛辽宁赛区一等奖（2015年）
-- 美国大学生数学建模大赛国际二等奖Honorable Mention（2015年）
-- 全国挑战杯科技作品竞赛辽宁赛区三等奖（2015年）
+- APWeb-WAIM 2022 Outstanding Student Paper Award, 2022
+- 京津冀计算机学科群第二届研究生学术会议论文三等奖, 2019
+- 美国大学生数学建模大赛国际二等奖Honorable Mention, 2016
+- 全国大学生数学建模大赛辽宁赛区一等奖, 2015
+- 美国大学生数学建模大赛国际二等奖Honorable Mention, 2015
+- 全国挑战杯科技作品竞赛辽宁赛区三等奖, 2015
 - 全国中学生物理奥林匹克竞赛全国二等奖（Top 20）
 - 全国中学生物理应用知识竞赛全国二等奖
 - 全国中学生化学奥林匹克竞赛省级一等奖
