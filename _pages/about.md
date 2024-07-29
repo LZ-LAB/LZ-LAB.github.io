@@ -47,14 +47,18 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 
 # Professional Activities
 ### PC Member or Reviewer:
-- **Conference:** KDD, CIKM, , 
+- **Conference:** KDD, CIKM, APWeb-WAIM
 
-- **Journal:** KBS, IEEE , WWWJ
+- **Journal:** KBS、IEEE TCSS、WWWJ、BDR
 
 
 
 
 
 # Honors & Awards
-
+- 天津大学三好学生（2022-2023学年）
+- 天津大学科技创新先进个人（2022-2023学年）
+- 天津大学国际交流先进个人（2022-2023学年）
+- 《基于大数据技术的普惠信贷服务》项目入选中国人民银行金融科技创新应用监管沙盒（技术负责人）
+- APWeb-WAIM 2022 Outstanding Student Paper Award（四作）
 
