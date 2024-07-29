@@ -49,13 +49,18 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # Professional Activities
+### Core Member:
+- The IEEE Standard of Financial Knowledge Graph (2807.2), 2024
+
+
+
 ### PC Member or Reviewer:
 - **Conference:** KDD, CIKM, APWeb-WAIM
 
 - **Journal:** KBS、IEEE TCSS、WWWJ、BDR
 
-### Core Member:
-- The IEEE Standard of Financial Knowledge Graph (2807.2), 2024
+
+
 
 
 
