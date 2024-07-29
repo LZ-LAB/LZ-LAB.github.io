@@ -41,5 +41,23 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 12. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. APWeb-WAIM 2023 Workshops. **(CCF-C)** [[Paper](https://doi.org/10.1007/978-981-97-2991-3_1)]
 
 
+# Projects
 
-# Awards
+
+
+# Professional Activities
+-- PC Member or Reviewer:
+
+:
+The Web Conference 2021
+EMNLP 2022
+NeurIPS 2022
+ACL 2023
+SIGIR 2023
+Journal Reviews:
+IEEE Transactions on Knowledge and Data Engineering (TKDE)
+AI Open
+
+# Honors & Awards
+
+
