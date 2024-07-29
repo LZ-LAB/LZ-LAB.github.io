@@ -54,7 +54,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 - **Journal:** KBS、IEEE TCSS、WWWJ、BDR
 
-### Core Member
+### Core Member:
 - The IEEE Standard of Financial Knowledge Graph (2807.2), 2024
 
 
