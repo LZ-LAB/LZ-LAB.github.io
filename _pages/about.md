@@ -39,7 +39,9 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 9. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, and Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks[C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
 10. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure[C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
 11. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. arXiv preprint arXiv:2407.00936, 2024. **(ArXiv)** [[Paper](https://arxiv.org/abs/2407.00936)]
-12. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. APWeb-WAIM 2023 Workshops. **(CCF-C)** [[Paper](https://doi.org/10.1007/978-981-97-2991-3_1)]
+12. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural role enhanced attributed network embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2020: 568-582. **(CCF-C)**
+13. Shaowei Zhang \*, **Zhao Li** \*, Xin Wang, Zirui Chen, WenBin Guo. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network [C]. In Proceedings of the 19th International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46-61. **(CCF-C)**
+14. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. APWeb-WAIM 2023 Workshops. **(CCF-C)**
 
 
 # Projects
