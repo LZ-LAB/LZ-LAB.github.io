@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a PhD student in Computer Science and Technology at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. Additionally, I am a Technical Expert at a financial big data lab of SZSBank. It is my great honor to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation.
+I am a PhD student in Computer Science and Technology at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. Additionally, I am a Technical Expert at the financial big data lab of SZSBank. It is my great honor to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation.
 
 My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
