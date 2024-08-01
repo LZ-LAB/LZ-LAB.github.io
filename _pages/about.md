@@ -77,7 +77,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 - 全国大学生数学建模大赛辽宁赛区一等奖, 2015
 - 美国大学生数学建模大赛国际二等奖Honorable Mention, 2015
 - 全国挑战杯科技作品竞赛辽宁赛区三等奖, 2015
-- 全国中学生物理奥林匹克竞赛全国二等奖（Top 20）
+- 全国中学生物理奥林匹克竞赛全国二等奖（Top 20 in the province）
 - 全国中学生物理应用知识竞赛全国二等奖
 - 全国中学生化学奥林匹克竞赛省级一等奖
 
