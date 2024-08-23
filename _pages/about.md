@@ -67,8 +67,8 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Honors & Awards
 - 宁夏自治区重点研发计划重点项目办公室负责人
-- 天津市计算机学会第六届会员代表
 - 中国计算机学会天津大学学生分会主席
+- 天津市计算机学会第六届会员代表
 - 天津大学三好学生
 - 天津大学科技创新先进个人
 - 天津大学国际交流先进个人
