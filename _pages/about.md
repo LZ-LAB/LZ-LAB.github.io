@@ -18,7 +18,8 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
-🔥 **2024.7** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获二等奖.
+🔥 **2024.7** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》**荣获二等奖**.
+
 🔥 **2024.7** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
 
 
