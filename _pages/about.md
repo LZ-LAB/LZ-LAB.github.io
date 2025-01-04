@@ -18,9 +18,11 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
+🔥 **2025.01** -- 本人荣获**石嘴山市大武口区优秀青年人才**.
+
 🔥 **2024.12** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**, 金融科技类研究课题历史最佳成绩.
 
-🔥 **2024.7** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
+🔥 **2024.07** -- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
 
 
 
@@ -70,6 +72,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Honors & Awards
 - 宁夏自治区重点研发计划重点项目办公室负责人
+- 石嘴山市大武口区优秀青年人才
 - 中国计算机学会天津大学学生分会主席
 - 天津市计算机学会第六届会员代表
 - 天津大学三好学生
