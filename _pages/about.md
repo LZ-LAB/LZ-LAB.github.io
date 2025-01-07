@@ -34,7 +34,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 # Main Publications
 \* indicates equal contribution.
 
-1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), xx(x):xxxx-xxxx, 2025. **(CCF-A, SCI-1)** [[Paper](https://arxiv.org/pdf/2402.08961v2)]
+1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), xx(x):xxxx-xxxx, 2025. **(CCF-A, SCI-1)** [[Paper](https://arxiv.org/pdf/2402.08961)]
 2. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://doi.org/10.1109/TKDE.2024.3365727)]
 3. Wenbin Guo \*, **Zhao Li** \*, Xin Wang, Zirui Chen. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. arXiv preprint arXiv:2312.07589, 2023. **(ArXiv)** [[Paper](https://arxiv.org/abs/2312.07589)]
 4. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep attributed network representation learning of complex coupling and interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI-1, Hot/Highly Cited paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
