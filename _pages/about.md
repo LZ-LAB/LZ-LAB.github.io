@@ -56,7 +56,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Professional Activities
 ### Core Member:
-- The IEEE Standard of Financial Knowledge Graph (2807.2)[Link](https://ieeexplore.ieee.org/abstract/document/10577610), 2024
+- [The IEEE Standard of Financial Knowledge Graph (2807.2)](https://ieeexplore.ieee.org/abstract/document/10577610), 2024
 
 
 
