@@ -39,8 +39,8 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), xx(x):xxxx-xxxx, 2025. **(CCF-A, SCI-1)** [[Paper](https://arxiv.org/pdf/2402.08961)]
 2. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: xxxx–xxxx. **(CCF-A, Oral)**
 3. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://doi.org/10.1109/TKDE.2024.3365727)]
-4. Wenbin Guo \*, **Zhao Li** \*, Xin Wang, Zirui Chen. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. arXiv preprint arXiv:2312.07589, 2023. **(ArXiv)** [[Paper](https://arxiv.org/abs/2312.07589)]
-5. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep attributed network representation learning of complex coupling and interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI-1, Hot Paper, Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
+4. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep attributed network representation learning of complex coupling and interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI-1, Hot Paper, Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
+5. Wenbin Guo \*, **Zhao Li** \*, Xin Wang, Zirui Chen. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. arXiv preprint arXiv:2312.07589, 2023. **(ArXiv)** [[Paper](https://arxiv.org/abs/2312.07589)]
 6. Chenxu Wang \*, **Zhao Li** \*, Xin Wang, Zirui Chen. EnhancE: Enhanced Entity and Relation Embedding for Knowledge Hypergraph Link Prediction [C]. Companion Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 115-118. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543873.3587326)]
 7. **Zhao Li**. Knowledge Hypergraph Reasoning Based on Representation Learning [C]. In Database Systems for Advanced Applications: 28th International Conference (DASFAA 2023). 2023: 743-747. **(CCF-B, PhD Consortium)** [[Paper](https://doi.org/10.1007/978-3-031-30678-5_66)]
 8. **Zhao Li** \*, Xin Liu \*, Xin Wang, Pengkai Liu, and Yuxin Shen. TransO: a knowledge-driven representation learning method with ontology information constraints [J]. World Wide Web (WWWJ), 2023, 26(1): 297-319. **(CCF-B, SCI-3)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
@@ -64,7 +64,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 ### PC Member or Reviewer:
-- **Conference:** KDD, CIKM, APWeb-WAIM
+- **Conference:** KDD, CIKM, DASFAA, APWeb-WAIM
 
 - **Journal:** KBS、IEEE TCSS、WWWJ、BDR
 
