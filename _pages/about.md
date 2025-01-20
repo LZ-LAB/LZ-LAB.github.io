@@ -20,7 +20,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 # News!
 🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊IEEE TKDE录用**.
 
-🔥 **2025.01** -- 本人论文HySAE被**CCF-A类会议WWW 2025 （Oral）录用**.
+🔥 **2025.01** -- 本人论文HySAE被**CCF-A类会议WWW 2025 (Oral)录用**.
 
 🔥 **2025.01** -- 本人荣获**石嘴山市优秀青年人才(大武口区)**.
 
