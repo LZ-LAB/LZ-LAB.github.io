@@ -20,7 +20,9 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 # News!
 🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊IEEE TKDE录用**.
 
-🔥 **2025.01** -- 本人荣获**石嘴山市大武口区优秀青年人才**.
+🔥 **2025.01** -- 本人论文HySAE被**CCF-A类会议WWW 2025 （Oral）录用**.
+
+🔥 **2025.01** -- 本人荣获**石嘴山市优秀青年人才(大武口区)**.
 
 🔥 **2024.12** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**, 金融科技类研究课题历史最佳成绩.
 
@@ -74,7 +76,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Honors & Awards
 - 宁夏自治区重点研发计划重点项目办公室负责人
-- 石嘴山市大武口区优秀青年人才
+- 石嘴山市优秀青年人才(大武口区)
 - 中国计算机学会天津大学学生分会主席
 - 天津市计算机学会第六届会员代表
 - 天津大学三好学生
