@@ -18,7 +18,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
-🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! I contributed to this as a core member.
+🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**
 
 🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊 IEEE TKDE 录用**.
 
@@ -28,7 +28,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 🔥 **2024.12** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**, 金融科技类研究课题历史最佳成绩.
 
-🔥 **2024.07** -- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! I contributed to this as a core member.
+🔥 **2024.07** -- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! **I contributed to this as a core member.**
 
 
 
