@@ -79,7 +79,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Honors & Awards
 - 宁夏自治区重点研发计划重点项目首席架构师、办公室负责人
-- 石嘴山市(大武口区)优秀青年人才
+- 石嘴山市大武口区优秀青年人才
 - 中国计算机学会天津大学学生分会主席
 - 天津市计算机学会第六届会员代表
 - 宁夏金融学会课题研究二等奖
