@@ -68,7 +68,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 ### PC Member or Reviewer:
 - **Conference:** KDD, CIKM, DASFAA, APWeb-WAIM
 
-- **Journal:** KBS、IEEE TCSS、WWWJ、BDR
+- **Journal:** IEEE TKDE, KBS、IEEE TCSS、WWWJ、BDR
 
 
 
