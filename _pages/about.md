@@ -22,7 +22,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 🔥 **2025.05** -- 本人(共同一作，2/2)论文ConvE被**CCF-A类期刊 IEEE TKDE 2025 录用**.
 
-🔥 **2025.05** -- 本人入选**“腾讯犀牛鸟精英人才计划”(Tencent Rhino-bird Research Elite Program)**.
+🔥 **2025.05** -- 本人入选"**腾讯犀牛鸟精英人才计划 (Tencent Rhino-bird Research Elite Program)**".
 
 🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**
 
