@@ -18,17 +18,17 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
-🔥 **2025.07** -- 本人(第四作者)论文OL-KGC被**CCF-B类会 ISWC 2025 录用**.
+🔥 **2025.07** -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会 ISWC 2025 录用**.
 
-🔥 **2025.05** -- 本人(共同一作，2/2)论文ConvE被**CCF-A类期刊 IEEE TKDE 2025 录用**.
+🔥 **2025.05** -- 本人(共同一作，2/2)论文**ConvE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.
 
 🔥 **2025.05** -- 本人入选"**腾讯犀牛鸟精英人才计划 (Tencent Rhino-bird Research Elite Program)**".
 
 🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**
 
-🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊 IEEE TKDE 2025 录用**.
+🔥 **2025.01** -- 本人论文**HyCubE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.
 
-🔥 **2025.01** -- 本人论文HySAE被**CCF-A类会议 WWW 2025 (Oral) 录用**.
+🔥 **2025.01** -- 本人论文**HySAE**被**CCF-A类会议 WWW 2025 (Oral) 录用**.
 
 🔥 **2024.12** -- 本人荣获**石嘴山市大武口区优秀青年人才**.
 
