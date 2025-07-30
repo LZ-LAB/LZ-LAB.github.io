@@ -18,9 +18,15 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
+🔥 **2025.07** -- 本人(第四作者)论文OL-KGC被**CCF-B类会 ISWC 2025 录用**.
+
+🔥 **2025.05** -- 本人(共同一作，2/2)论文ConvE被**CCF-A类期刊 IEEE TKDE 2025 录用**.
+
+🔥 **2025.05** -- 本人入选**“腾讯犀牛鸟精英人才计划”(Tencent Rhino-bird Research Elite Program)**.
+
 🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**
 
-🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊 IEEE TKDE 录用**.
+🔥 **2025.01** -- 本人论文HyCubE被**CCF-A类期刊 IEEE TKDE 2025 录用**.
 
 🔥 **2025.01** -- 本人论文HySAE被**CCF-A类会议 WWW 2025 (Oral) 录用**.
 
@@ -66,9 +72,9 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 ### PC Member or Reviewer:
-- **Conference:** WWW, KDD, CIKM, DASFAA, APWeb-WAIM
+- **Conference:** KDD, WWW, CIKM, DASFAA, APWeb-WAIM
 
-- **Journal:** IEEE TKDE, KBS, IEEE TCSS, WWWJ, BDR
+- **Journal:** TKDE, Information Fusion, KBS, TCSS, WWWJ, BDR
 
 
 
@@ -78,9 +84,10 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # Honors & Awards
-- 宁夏自治区重点研发计划重点项目首席架构师、办公室负责人
-- 石嘴山市大武口区优秀青年人才
+- 宁夏重点研发计划重点项目首席架构师（兼任项目办公室负责人）
+- 入选“腾讯犀牛鸟精英人才计划”(全球每年平均选拔70人)
 - 中国计算机学会天津大学学生分会主席
+- 石嘴山市大武口区优秀青年人才
 - 天津市计算机学会第六届会员代表
 - 宁夏金融学会课题研究二等奖
 - 宁夏金融学会课题研究三等奖
