@@ -44,7 +44,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 # Main Publications
 \* indicates equal contribution.
 
-1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li.HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
+1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
 2. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: xxxx–xxxx. **(CCF-A, Oral)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714549)]
 3. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8):3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10436025)]
 4. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep attributed network representation learning of complex coupling and interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI-1, Hot Paper, Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
