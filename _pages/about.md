@@ -18,7 +18,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
-🔥 **2025.07** -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会 ISWC 2025 录用**.
+🔥 **2025.07** -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会议 ISWC 2025 录用**.
 
 🔥 **2025.06** -- 本人(共同一作，2/2)论文**ConvE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.
 
