@@ -18,25 +18,14 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 
 # News!
-🔥 2025.07 -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会议 ISWC 2025 录用**.  
-🔥 2025.07 -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会议 ISWC 2025 录用**.  
-
-
-
-
-
-🔥 **2025.06** -- 本人(共同一作，2/2)论文**ConvE**被**CCF-A类期刊 IEEE TKDE 2025 录用**. \\
-🔥 **2025.05** -- 本人入选"**腾讯犀牛鸟精英人才计划 (Tencent Rhino-bird Research Elite Program)**", 全球每年平均选拔70人. \\
+🔥 **2025.07** -- 本人(第四作者)论文**OL-KGC**被**CCF-B类会议 ISWC 2025 录用**.  
+🔥 **2025.06** -- 本人(共同一作，2/2)论文**ConvE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.  
+🔥 **2025.05** -- 本人入选"**腾讯犀牛鸟精英人才计划 (Tencent Rhino-bird Research Elite Program)**", 全球每年平均选拔70人.  
 🔥 **2025.02** -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**
-
-🔥 **2025.01** -- 本人论文**HyCubE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.
-
-🔥 **2025.01** -- 本人论文**HySAE**被**CCF-A类会议 WWW 2025 (Oral) 录用**.
-
-🔥 **2024.12** -- 本人荣获**石嘴山市大武口区优秀青年人才**.
-
-🔥 **2024.12** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**, 金融科技类研究课题历史最佳成绩.
-
+🔥 **2025.01** -- 本人论文**HyCubE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.  
+🔥 **2025.01** -- 本人论文**HySAE**被**CCF-A类会议 WWW 2025 (Oral) 录用**.  
+🔥 **2024.12** -- 本人荣获**石嘴山市大武口区优秀青年人才**.  
+🔥 **2024.12** -- 本人所承担的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**, 金融科技类研究课题历史最佳成绩.  
 🔥 **2024.07** -- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! **I contributed to this as a core member.**
 
 
