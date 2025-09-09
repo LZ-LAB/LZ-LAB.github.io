@@ -73,7 +73,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 ### PC Member or Reviewer:
 - **Conference:** KDD, WWW, CIKM, DASFAA, APWeb-WAIM
 
-- **Journal:** TKDE, Information Fusion, KBS, TCSS, WWWJ, BDR
+- **Journal:** TKDE, Information Fusion, KBS, Neurocomputing, TCSS, WWWJ, BDR
 
 
 
@@ -84,9 +84,10 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
 # Honors & Awards
 - 宁夏重点研发计划重点项目首席架构师（兼任项目办公室负责人）
-- 入选“腾讯犀牛鸟精英人才计划”(全球每年平均选拔70人)
+- 入选“腾讯犀牛鸟精英人才计划”(**全球每年平均选拔70人**)
 - 中国计算机学会天津大学学生分会主席
 - 石嘴山市大武口区优秀青年人才
+- 天津大学博士一等学业奖学金(**每年4人**)
 - 天津市计算机学会第六届会员代表
 - 宁夏金融学会课题研究二等奖
 - 宁夏金融学会课题研究三等奖
@@ -99,7 +100,7 @@ My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 - 全国大学生数学建模大赛辽宁赛区一等奖, 2015
 - 美国大学生数学建模大赛国际二等奖Honorable Mention, 2015
 - 全国挑战杯科技作品竞赛辽宁赛区三等奖, 2015
-- 全国中学生物理奥林匹克竞赛全国二等奖（Top 20 in the province）
+- 全国中学生物理奥林匹克竞赛全国二等奖（**Top 20 in the province**）
 - 全国中学生物理应用知识竞赛全国二等奖
 - 全国中学生化学奥林匹克竞赛省级一等奖
 
