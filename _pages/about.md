@@ -1,56 +1,97 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+李钊，博士研究生，毕业于天津大学智能与计算学部计算机科学与技术专业，宁夏重点研发计划项目首席架构师，石嘴山银行技术专家、金融大数据实验室负责人，入选“腾讯犀牛鸟精英人才计划”、“石嘴山市大武口区优秀青年人才”，博士研究生国家奖学金获得者，中国计算机学会天津大学第九届学生分会主席、天津市计算机学会第六届会员代表。荣获“博士研究生一等学业奖学金”（每年前4名）、宁夏金融学会课题研究二等奖（金融科技方向历史最佳成绩）、天津大学三好学生、天津大学科技创新先进个人、天津大学国际交流先进个人。研究方向是知识表示学习与推理、大模型与知识图谱、金融科技与数字化，已累计在IEEE TKDE、WWW、AAAI、IJCAI、CIKM、ISWC、DASFAA、KBS等计算机科学与人工智能领域发表高水平学术论文25篇，其中以第一作者和共同一作发表高水平论文11篇，具体包括CCF-A类论文5篇、ESI热点论文1篇、ESI高被引论文1篇、CCF-B类论文3篇、CCF-C类论文2篇、SCI一区Top论文1篇，Google Scholar引用480余次。作为核心成员制定和发布2项IEEE国际标准P2807.2、P2807.4，申请国家发明专利4项。牵头负责CCF-腾讯犀牛鸟精英人才项目、CAAI-华为MindSpore学术奖励基金研究项目、宁夏重点研发计划项目重点项目、宁夏金融学会课题研究项目等多项纵向项目和横向项目，技术支持项目入选宁夏地区首批中国人民银行金融科技创新应用监管沙盒项目。担任KDD、WWW、CIKM、DASFAA、APWeb-WAIM、WISE、IEEE TKDE、EAAI、PR、Information Fusion、KBS、ESWA、Neurocomputing、IEEE TCSS、WWWJ、BDR等高水平国际学术会议和SCI学术期刊程序委员会委员和审稿人。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am a PhD student in Computer Science and Technology at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Xin Wang. Additionally, I am a Technical Expert at the financial big data lab of SZSBank. It is my great honor to be the President of the Tianjin University Student Chapter of the Chinese Computer Federation. My research interests lie in Knowledge Graph, Responsible AI, and FinTech.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# News!
+🔥 2025.11 -- 本人(6/8 作者)论文**rMMEA**被**CCF-A类会议 AAAI 2026 录用**.  
+🔥 2025.10 -- 本人获评“**博士研究生国家奖学金**”，学生时代最高荣誉.  
+🔥 2025.09 -- 本人获评“**博士研究生一等学业奖学金**”，智能与计算学部每年前4名.  
+🔥 2025.07 -- 本人(4/5 作者)论文**OL-KGC**被**CCF-B类会议 ISWC 2025 录用**.  
+🔥 2025.06 -- 本人(共同一作，2/2)论文**ConvE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.  
+🔥 2025.05 -- 本人入选“**腾讯犀牛鸟精英人才计划(Tencent Rhino-bird Research Elite Program)**”，全球每年平均选拔70人.  
+🔥 2025.02 -- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010) is officially released! **I contributed to this as a core member.**  
+🔥 2025.01 -- 本人论文**HyCubE**被**CCF-A类期刊 IEEE TKDE 2025 录用**.  
+🔥 2025.01 -- 本人论文**HySAE**被**CCF-A类会议 WWW 2025 (Oral) 录用**.  
+🔥 2024.12 -- 本人荣获“**石嘴山市大武口区优秀青年人才**”.  
+🔥 2024.12 -- 本人所负责的2024年宁夏金融学会研究课题《神经符号协同计算的数字金融创新之路》荣获**二等奖**，**金融科技类研究课题历史最佳成绩**.  
+🔥 2024.07 -- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610) is officially released! **I contributed to this as a core member.**  
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+# Main Publications
+\* indicates equal contribution.
+
+1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
+2. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: 86-97. **(CCF-A, Oral)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714549)]
+3. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8): 3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10436025)]
+
+**[>> 查看全部论文、标准与专利](/publications/)**
+
+
+
+
+
+
+
+# Projects
+**[>> 查看全部项目](/projects/)**
+
+
+# Professional Activities
+### Core Member:
+- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610), 2024
+- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010), 2024
+
+
+### PC Member or Reviewer:
+- **Conference:** KDD, WWW, CIKM, DASFAA, APWeb-WAIM
+
+- **Journal:** TKDE, PR, EAAI, Information Fusion, KBS, ESWA, Neurocomputing, TCSS, WWWJ, BDR
+
+
+
+
+
+
+
+
+# Honors & Awards
+- 宁夏重点研发计划重点项目首席架构师（兼任项目办公室负责人）
+- 博士研究生国家奖学金
+- 博士研究生一等学业奖学金(**每年前4名**)
+- 入选“腾讯犀牛鸟精英人才计划”(**全球每年平均选拔70人**)
+- 中国计算机学会天津大学学生分会主席
+- 石嘴山市大武口区优秀青年人才
+- 天津市计算机学会第六届会员代表
+- 宁夏金融学会课题研究二等奖
+- 宁夏金融学会课题研究三等奖
+- 天津大学三好学生
+- 天津大学科技创新先进个人
+- 天津大学国际交流先进个人
+- APWeb-WAIM 2022 Outstanding Student Paper Award, 2022
+- 京津冀计算机学科群第二届研究生学术会议论文三等奖, 2019
+- 美国大学生数学建模大赛国际二等奖Honorable Mention, 2016
+- 全国大学生数学建模大赛辽宁赛区一等奖, 2015
+- 美国大学生数学建模大赛国际二等奖Honorable Mention, 2015
+- 全国挑战杯科技作品竞赛辽宁赛区三等奖, 2015
+- 全国中学生物理奥林匹克竞赛全国二等奖（**Top 20 in the province**）
+- 全国中学生物理应用知识竞赛全国二等奖
+- 全国中学生化学奥林匹克竞赛省级一等奖
+
