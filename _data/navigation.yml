@@ -8,17 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "论文/Papers"
+  - title: "Papers"
     url: /papers/
 
-  - title: "标准与专利/Standards and Patents"
+  - title: "Standards and Patents"
     url: /standards-and-patents/
 
-  - title: "项目/Projects"
+  - title: "Projects"
     url: /projects/ 
 
-  - title: "荣誉奖项/Honors and Awards"
+  - title: "Honors and Awards"
     url: /honors-and-awards/
     
-  - title: "其他/Others"
+  - title: "Others"
     url: /others/
