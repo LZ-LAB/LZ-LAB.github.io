@@ -12,7 +12,10 @@ main:
     url: /papers/
 
   - title: "标准与专利/Standards and Patents"
-    url: /talks/    
+    url: /standards-and-patents/    
 
-  - title: "其他"
-    url: /cv/
+  - title: "荣誉奖项/Honors and Awards"
+    url: /honors-and-awards/
+    
+  - title: "其他/Others"
+    url: /others/
