@@ -29,16 +29,5 @@ author_profile: true
 13. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
 14. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI-1)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
 
-# Standards
-- [The IEEE Standard of Financial Knowledge Graphs (2807.2-2024)](https://ieeexplore.ieee.org/abstract/document/10577610), 2024 **（核心成员）**
-- [The IEEE Standard of Scientific Knowledge Graphs (2807.4-2024)](https://ieeexplore.ieee.org/document/10883010), 2024 **（核心成员）**
 
-# Patents
-<!-- 已申请国家发明专利 4 项，可在此逐条补充，例如：
-- 张三, **李钊**. 一种基于知识图谱的XXX方法. 中国发明专利, 申请号: 2024XXXXXX.X, 2024.
--->
-- （待补充）已申请国家发明专利 4 项。
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
