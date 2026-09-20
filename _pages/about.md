@@ -42,7 +42,7 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 2. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: 86-97. **(CCF-A, Oral)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714549)]
 3. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8): 3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10436025)]
 
-**[>> 查看全部论文、标准与专利](/publications/)**
+**[>> 查看全部论文、标准与专利]({{ '/publications/' | relative_url }})**
 
 
 
@@ -51,7 +51,7 @@ I am a PhD student in Computer Science and Technology at the College of Intellig
 
 
 # Projects
-**[>> 查看全部项目](/projects/)**
+**[>> 查看全部项目]({{ '/projects/' | relative_url }})**
 
 
 # Professional Activities
