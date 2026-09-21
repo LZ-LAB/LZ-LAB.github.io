@@ -16,15 +16,13 @@ author_profile: true
 
 1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
 2. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: 86-97. **(CCF-A, Oral)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714549)]
-3. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8): 3879-3892, 2024. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10436025)]
+3. 
 4. 
 5. Wenbin Guo \*, **Zhao Li** \*, Xin Wang, Zirui Chen, Jun Zhao, Jianxin Li, Ye Yuan. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(9): 5049-5062, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/11048442)]
 6. 
 7. 
 
 
-11. 
-12. 
 
 
 
@@ -36,16 +34,15 @@ author_profile: true
 
 
 
-
-
-1. Shaowei Zhang\*, **Zhao Li**\*, Xin Wang. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network [C]. In Proceedings of the 19th International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46‑61. **(CCF‑C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-46664-9_4)]
-2. Chenxu Wang\*, **Zhao Li**\*, Xin Wang, Zirui Chen. EnhancE: Enhanced Entity and Relation Embedding for Knowledge Hypergraph Link Prediction [C]. Companion Proceedings of the ACM Web Conference 2023 (WWW 2023, Short Paper). 2023: 115-118. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543873.3587326)]
-3. **Zhao Li**. Knowledge Hypergraph Reasoning Based on Representation Learning [C]. In Database Systems for Advanced Applications: 28th International Conference (DASFAA 2023, PhD Consortium). 2023: 743-747. **(CCF-B类会议)** [[Paper](https://doi.org/10.1007/978-3-031-30678-5_66)]
-4. **Zhao Li**, Xin Liu, Xin Wang, Pengkai Liu, Yuxin Shen. TransO: A Knowledge-Driven Representation Learning Method with Ontology Information Constraints [J]. World Wide Web: Internet and Web Information Systems (WWWJ), 2023, 26(1): 297-319. **(CCF-B类期刊)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
-5. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top期刊, ESI Hot Paper, ESI Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
-6. Yuxin Shen\*, **Zhao Li**\*, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
-7. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
-8. 
+1. **Zhao Li**, Chenxu Wang, Xin Wang, Zirui Chen, Jianxin Li. HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 36(8): 3879-3892, 2024. **(CCF-A类期刊, SCI一区Top期刊)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10436025)]
+2. Shaowei Zhang\*, **Zhao Li**\*, Xin Wang. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network [C]. In Proceedings of the 19th International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46‑61. **(CCF‑C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-46664-9_4)]
+3. Chenxu Wang\*, **Zhao Li**\*, Xin Wang, Zirui Chen. EnhancE: Enhanced Entity and Relation Embedding for Knowledge Hypergraph Link Prediction [C]. Companion Proceedings of the ACM Web Conference 2023 (WWW 2023, Short Paper). 2023: 115-118. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543873.3587326)]
+4. **Zhao Li**. Knowledge Hypergraph Reasoning Based on Representation Learning [C]. In Database Systems for Advanced Applications: 28th International Conference (DASFAA 2023, PhD Consortium). 2023: 743-747. **(CCF-B类会议)** [[Paper](https://doi.org/10.1007/978-3-031-30678-5_66)]
+5. **Zhao Li**, Xin Liu, Xin Wang, Pengkai Liu, Yuxin Shen. TransO: A Knowledge-Driven Representation Learning Method with Ontology Information Constraints [J]. World Wide Web: Internet and Web Information Systems (WWWJ), 2023, 26(1): 297-319. **(CCF-B类期刊)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
+6. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top期刊, ESI Hot Paper, ESI Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
+7. Yuxin Shen\*, **Zhao Li**\*, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
+8. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
+9. 
 
 
 
