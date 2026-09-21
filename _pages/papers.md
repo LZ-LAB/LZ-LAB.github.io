@@ -14,26 +14,6 @@ author_profile: true
 ## First Author & Corresponding Author
 \* indicates equal contribution.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. **Zhao Li**, Xin Wang, Zhao Jun, Feng Feng, Zirui Chen, Jianxin Li. HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the ACM Web Conference 2025 (WWW 2025). 2025: 86-97. **(CCF-A类会议, Oral)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714549)]
 2. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A类期刊, SCI一区Top期刊)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
 3. Wenbin Guo\*, **Zhao Li**\*, Xin Wang, Zirui Chen, Jun Zhao, Jianxin Li, Ye Yuan. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(9): 5049-5062, 2025. **(CCF-A类期刊, SCI一区Top期刊)** [[Paper](https://ieeexplore.ieee.org/abstract/document/11048442)]
@@ -45,17 +25,6 @@ author_profile: true
 9. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top期刊, ESI Hot Paper, ESI Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
 10. Yuxin Shen\*, **Zhao Li**\*, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
 11. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
-12. 
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -78,19 +47,23 @@ author_profile: true
 
 
 ## Co-Author
-1. 徐旺, 王鑫, **李钊**, 郭文斌, 杜方, 赵军. 基于时间约束逻辑规则引导的时序知识超图链接预测方法 [J]. 计算机科学与探索, 2026, 1-18. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2603006#1)]
-2. Wenbin Guo, Xin Wang, Jiaoyan Chen, **Zhao Li**, Zirui Chen. Ontology-Enhanced Knowledge Graph Completion using Large Language Models [C]. In Proceedings of the 24th International Semantic Web Conference (ISWC 2025). 2025: 61-80. **(CCF‑B类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_4)]
-3. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
-4. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (**三大学报之一**, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
-5. Mengyu Zhu, **Zhao Li**, Jun Zhao, Xiaopeng Liu, Yongning Liu. TERM: Tree Ensemble Models for Interpretable Rule Mining [C]. In Proceedings of the 25th International Conference on Web Information Systems Engineering (WISE 2024). 2024: 367-382. **(CCF‑B类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-0579-8_26)]
-6. Lifan Han, Xin Wang, Meng Wang, **Zhao Li**, Heyi Zhang, Zirui Chen, Xiaowang Zhang. RAC-BERT: Character Radical Enhanced BERT for Ancient Chinese [C]. In Proceedings of the 12th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2023). 2023: 759-771. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_59)]
-7. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks [C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
-8. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. PosKHG: A Position-Aware Knowledge Hypergraph Model for Link Prediction [J]. Data Science and Engineering, 2023, 8(2): 135-145. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00214-x)]
-9. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. In Proceedings of the 7th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2023, Workshops). 2023: 3-10. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-2991-3_1)]
-10. 张鹤译, 王鑫, 韩立帆, **李钊**, 陈子睿, 陈哲. 大语言模型融合知识图谱的问答系统研究[J]. 计算机科学与探索, 2023, 17(10): 2377-2388. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2308070)]
-11. 马朔, **李钊**, 赵军. 基于CatBoost用信预测模型的TreeSHAP解释性研究 [J]. 计算机系统应用, 2022, 32(3): 338-344. (中文核心期刊) [[Paper](https://www.c-s-a.org.cn/csa/article/abstract/9003)]
-12. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. POSE: A Positional Embedding Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the 6th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2022). 2022: 323–337. **(CCF-C类会议, Outstanding Student Paper Award)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_25)]
-13. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A类会议)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
+1. Zirui Chen, Xin Wang, **Zhao Li**, Wenbin Guo, Dongxiao He, Yanbing Li, Wushour Silamu. KG-BiLM: Knowledge Graph Embedding via Bidirectional Language Models [C]. In Proceedings of the ACM Web Conference 2026 (WWW 2026). 2026: 3996-4007. **(CCF-A类会议)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792654)]
+2. Wenbin Guo, Xin Wang, Jiaoyan Chen, Lingbing Guo, **Zhao Li**, Zirui Chen. ReaLM: Residual Quantization Bridges Knowledge Graph Embeddings and Large Language Models [C]. In Proceedings of the ACM Web Conference 2026 (WWW 2026). 2026: 3996-4007. **(CCF-A类会议)** [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792437)]
+3. Lingbing Guo, Zhuo Chen, Yichi Zhang, Wenbin Guo, Haonan Yang, **Zhao Li**, Zirui Chen, Xin Wang. rMMEA: Robust Multi-Modal Entity Alignment with Missing and Noise Visual Modality [C]. In Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026). 2026, 40(26): 21459-21467. **(CCF‑A类会议)** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39293)]
+4. 徐旺, 王鑫, **李钊**, 郭文斌, 杜方, 赵军. 基于时间约束逻辑规则引导的时序知识超图链接预测方法 [J]. 计算机科学与探索, 2026, 1-18. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2603006#1)]
+5. Wenbin Guo, Xin Wang, Jiaoyan Chen, **Zhao Li**, Zirui Chen. Ontology-Enhanced Knowledge Graph Completion using Large Language Models [C]. In Proceedings of the 24th International Semantic Web Conference (ISWC 2025). 2025: 61-80. **(CCF‑B类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_4)]
+6. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
+7. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (**三大学报之一**, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
+8. Mengyu Zhu, **Zhao Li**, Jun Zhao, Xiaopeng Liu, Yongning Liu. TERM: Tree Ensemble Models for Interpretable Rule Mining [C]. In Proceedings of the 25th International Conference on Web Information Systems Engineering (WISE 2024). 2024: 367-382. **(CCF‑B类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-0579-8_26)]
+9. Lifan Han, Xin Wang, Meng Wang, **Zhao Li**, Heyi Zhang, Zirui Chen, Xiaowang Zhang. RAC-BERT: Character Radical Enhanced BERT for Ancient Chinese [C]. In Proceedings of the 12th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2023). 2023: 759-771. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_59)]
+10. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks [C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
+11. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. PosKHG: A Position-Aware Knowledge Hypergraph Model for Link Prediction [J]. Data Science and Engineering, 2023, 8(2): 135-145. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00214-x)]
+12. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. In Proceedings of the 7th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2023, Workshops). 2023: 3-10. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-2991-3_1)]
+13. 张鹤译, 王鑫, 韩立帆, **李钊**, 陈子睿, 陈哲. 大语言模型融合知识图谱的问答系统研究[J]. 计算机科学与探索, 2023, 17(10): 2377-2388. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2308070)]
+14. 马朔, **李钊**, 赵军. 基于CatBoost用信预测模型的TreeSHAP解释性研究 [J]. 计算机系统应用, 2022, 32(3): 338-344. (中文核心期刊) [[Paper](https://www.c-s-a.org.cn/csa/article/abstract/9003)]
+15. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. POSE: A Positional Embedding Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the 6th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2022). 2022: 323–337. **(CCF-C类会议, Outstanding Student Paper Award)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_25)]
+16. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A类会议)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
+
 
 
 
