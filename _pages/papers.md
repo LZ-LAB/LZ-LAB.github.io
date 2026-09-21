@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Journal & Conference Papers
+# First Author & Corresponding Author
 \* indicates equal contribution.
 
 1. **Zhao Li**, Xin Wang, Jun Zhao, Wenbin Guo, Jianxin Li. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(4): 1902-1914, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/10845179)]
