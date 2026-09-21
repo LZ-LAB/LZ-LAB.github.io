@@ -26,8 +26,7 @@ author_profile: true
 
 11. Shaowei Zhang \*, **Zhao Li** \*, Xin Wang. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network[C]// International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46‑61. **(CCF‑C)**
 
-**Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding[C]// International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B类会议)** [[Paper]([https://ieeexplore.ieee.org/abstract/document/10845179](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36))]
-
+**Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding[C]// International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
 
 
 
