@@ -26,8 +26,7 @@ author_profile: true
 10. **Zhao Li**, Xin Wang, Jianxin Li. Structural role enhanced attributed network embedding[C]// International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568‑582. **(CCF‑C)**
 11. Shaowei Zhang \*, **Zhao Li** \*, Xin Wang. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network[C]// International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46‑61. **(CCF‑C)**
 12. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, and Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks [C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
-13. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
-14. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI-1)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
+
 
 
 
@@ -79,7 +78,9 @@ author_profile: true
 
 
 # Co-Author
-
+1. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
+2. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI-1)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
+3. 
 
 
 
