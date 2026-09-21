@@ -73,9 +73,9 @@ author_profile: true
 
 
 ## Co-Author
-1. 徐旺, 王鑫, **李钊**, 郭文斌, 杜方, 赵军. 基于时间约束逻辑规则引导的时序知识超图链接预测方法 [J]. 计算机科学与探索, 2026, 1-18.**(中文核心期刊)** [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2603006#1)]
-2. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. **(三大学报之一, 中文核心期刊)** [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
-3. 马朔, **李钊**, 赵军. 基于CatBoost用信预测模型的TreeSHAP解释性研究 [J]. 计算机系统应用, 2022, 32(3): 338-344. **(中文核心期刊)** [[Paper](https://www.c-s-a.org.cn/csa/article/abstract/9003)]
+1. 徐旺, 王鑫, **李钊**, 郭文斌, 杜方, 赵军. 基于时间约束逻辑规则引导的时序知识超图链接预测方法 [J]. 计算机科学与探索, 2026, 1-18. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2603006#1)]
+2. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (三大学报之一, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
+3. 马朔, **李钊**, 赵军. 基于CatBoost用信预测模型的TreeSHAP解释性研究 [J]. 计算机系统应用, 2022, 32(3): 338-344. (中文核心期刊) [[Paper](https://www.c-s-a.org.cn/csa/article/abstract/9003)]
 4. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. POSE: A Positional Embedding Model for Knowledge Hypergraph Link Prediction [C]. In Proceedings of the 6th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2022). 2022: 323–337. **(CCF-C)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25198-6_25)]
 5. Fuxiang Zhang, Xin Wang, **Zhao Li**, Jianxin Li. TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure [C]. In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). 2020: 2987–2993. **(CCF-A)** [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3491853)]
 
