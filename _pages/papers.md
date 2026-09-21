@@ -82,7 +82,7 @@ author_profile: true
 2. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (**三大学报之一**, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
 3. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks [C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
 4. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. PosKHG: A Position-Aware Knowledge Hypergraph Model for Link Prediction [J]. Data Science and Engineering, 2023, 8(2): 135-145. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00214-x)]
-5. Lifan Han, Xin Wang, Zhao Li, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. In Proceedings of the 7th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2023, Workshops). 2023: 3-10. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-2991-3_1)]
+5. Lifan Han, Xin Wang, **Zhao Li**, Heyi Zhang, Zirui Chen. A Bidirectional Question-Answering System using Large Language Models and Knowledge Graphs [C]. In Proceedings of the 7th Asia-Pacific Web and Web-Age Information Management Joint International Conference on Web and Big Data (APWeb-WAIM 2023, Workshops). 2023: 3-10. **(CCF-C类会议)** [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-2991-3_1)]
 6. 
 7. 张鹤译, 王鑫, 韩立帆, **李钊**, 陈子睿, 陈哲. 大语言模型融合知识图谱的问答系统研究[J]. 计算机科学与探索, 2023, 17(10): 2377-2388. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2308070)]
 8. 马朔, **李钊**, 赵军. 基于CatBoost用信预测模型的TreeSHAP解释性研究 [J]. 计算机系统应用, 2022, 32(3): 338-344. (中文核心期刊) [[Paper](https://www.c-s-a.org.cn/csa/article/abstract/9003)]
@@ -97,9 +97,6 @@ author_profile: true
 12. Xin Wang, Zirui Chen, Haofen Wang, Leong Hou U, **Zhao Li**, Wenbin Guo. Large Language Model Enhanced Knowledge Representation Learning: A Survey [J]. Data Science and Engineering, 2025: 1-24. **(SCI-1)** [[Paper](https://link.springer.com/article/10.1007/s41019-025-00285-y#citeas)]
 13. 
 
-
-
-Han L, Wang X, Li Z, et al. A bidirectional question-answering system using large language models and knowledge graphs[C]//Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data. Singapore: Springer Nature Singapore, 2023: 3-10.
 
 
 
