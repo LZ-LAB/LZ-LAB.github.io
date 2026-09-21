@@ -32,7 +32,7 @@ author_profile: true
 
 
 
-1. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI-1-Top, Hot Paper, Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
+1. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top, Hot Paper, Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
 2. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
 
 
