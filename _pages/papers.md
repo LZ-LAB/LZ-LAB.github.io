@@ -20,11 +20,12 @@ author_profile: true
 4. 
 5. Wenbin Guo \*, **Zhao Li** \*, Xin Wang, Zirui Chen, Jun Zhao, Jianxin Li, Ye Yuan. ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion [J]. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 37(9): 5049-5062, 2025. **(CCF-A, SCI-1)** [[Paper](https://ieeexplore.ieee.org/abstract/document/11048442)]
 6. Chenxu Wang \*, **Zhao Li** \*, Xin Wang, Zirui Chen. EnhancE: Enhanced Entity and Relation Embedding for Knowledge Hypergraph Link Prediction [C]. Companion Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 115-118. **(CCF-A)** [[Paper](https://doi.org/10.1145/3543873.3587326)]
-7. **Zhao Li**. Knowledge Hypergraph Reasoning Based on Representation Learning [C]. In Database Systems for Advanced Applications: 28th International Conference (DASFAA 2023). 2023: 743-747. **(CCF-B, PhD Consortium)** [[Paper](https://doi.org/10.1007/978-3-031-30678-5_66)]
+7. 
 8. **Zhao Li**, Xin Liu, Xin Wang, Pengkai Liu, and Yuxin Shen. TransO: a knowledge-driven representation learning method with ontology information constraints [J]. World Wide Web (WWWJ), 2023, 26(1): 297-319. **(CCF-B, SCI-3)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
 9. 
 
 11. Shaowei Zhang \*, **Zhao Li** \*, Xin Wang. TKGAT: Temporal Knowledge Graph Representation Learning Using Attention Network [C]// International Conference on Advanced Data Mining and Applications (ADMA 2023). 2023: 46‑61. **(CCF‑C)**
+12. 
 
 
 
@@ -38,11 +39,12 @@ author_profile: true
 
 
 
-1. **Zhao Li**, Xin Liu, Xin Wang, Pengkai Liu, Yuxin Shen. TransO: A Knowledge-Driven Representation Learning Method with Ontology Information Constraints [J]. World Wide Web: Internet and Web Information Systems (WWWJ), 2023, 26(1): 297-319. **(CCF-B类期刊)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
-2. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top期刊, ESI Hot Paper, ESI Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
-3. Yuxin Shen\*, **Zhao Li**\*, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
-4. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
-5. 
+1. **Zhao Li**. Knowledge Hypergraph Reasoning Based on Representation Learning [C]. In Database Systems for Advanced Applications: 28th International Conference (DASFAA 2023, PhD Consortium). 2023: 743-747. **(CCF-B类会议)** [[Paper](https://doi.org/10.1007/978-3-031-30678-5_66)]
+2. **Zhao Li**, Xin Liu, Xin Wang, Pengkai Liu, Yuxin Shen. TransO: A Knowledge-Driven Representation Learning Method with Ontology Information Constraints [J]. World Wide Web: Internet and Web Information Systems (WWWJ), 2023, 26(1): 297-319. **(CCF-B类期刊)** [[Paper](https://doi.org/10.1007/s11280-022-01016-3)]
+3. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Deep Attributed Network Representation Learning of Complex Coupling and Interaction [J]. Knowledge-Based Systems (KBS), 2021, 212: 106618. **(SCI一区Top期刊, ESI Hot Paper, ESI Highly Cited Paper)** [[Paper](https://doi.org/10.1016/j.knosys.2020.106618)]
+4. Yuxin Shen\*, **Zhao Li**\*, Xin Wang, Jianxin Li, Xiaowang Zhang. Datatype-Aware Knowledge Graph Representation Learning in Hyperbolic Space [C]. In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM 2021). 2021: 1630–1639. **(CCF-B)** [[Paper](https://doi.org/10.1145/3459637.3482421)]
+5. **Zhao Li**, Xin Wang, Jianxin Li, Qingpeng Zhang. Structural Role Enhanced Attributed Network Embedding [C]. In Proceedings of the 20th International Conference on Web Information Systems Engineering (WISE 2019). 2019: 568-582. **(CCF‑B)** [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_36)]
+6. 
 
 
 
