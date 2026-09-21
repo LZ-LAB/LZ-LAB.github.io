@@ -83,7 +83,7 @@ author_profile: true
 
 ## Co-Author
 1. 徐旺, 王鑫, **李钊**, 郭文斌, 杜方, 赵军. 基于时间约束逻辑规则引导的时序知识超图链接预测方法 [J]. 计算机科学与探索, 2026, 1-18. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2603006#1)]
-2. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (三大学报之一, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
+2. 郭文斌, 王鑫, **李钊**, 陈子睿, 赵军, 冯锋, 杜方. 注意力增强的语义融合知识图谱表示学习框架 [J]. 计算机研究与发展, 2025, 62(11): 2687-2696. (**三大学报之一**, 中文核心期刊) [[Paper](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440669)]
 3. Chenxu Wang, Xin Wang, **Zhao Li**, Zirui Chen, Jianxin Li. HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks [C]. In Proceedings of the ACM Web Conference 2023 (WWW 2023). 2023: 188–198. **(CCF-A类会议)** [[Paper](https://doi.org/10.1145/3543507.3583256)]
 4. Zirui Chen, Xin Wang, Chenxu Wang, **Zhao Li**. PosKHG: A Position-Aware Knowledge Hypergraph Model for Link Prediction [J]. Data Science and Engineering, 2023, 8(2): 135-145. **(SCI一区Top期刊)** [[Paper](https://link.springer.com/article/10.1007/s41019-023-00214-x)]
 5. 张鹤译, 王鑫, 韩立帆, **李钊**, 陈子睿, 陈哲. 大语言模型融合知识图谱的问答系统研究[J]. 计算机科学与探索, 2023, 17(10): 2377-2388. (中文核心期刊) [[Paper](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2308070)]
