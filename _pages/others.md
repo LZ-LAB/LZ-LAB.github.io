@@ -4,7 +4,8 @@ title: "Others"
 permalink: /others/
 author_profile: true
 ---
-## PC Member or Reviewer:
-- **Conference:** KDD, WWW, CIKM, DASFAA, APWeb-WAIM
+## Conference PC Member:
+KDD, WWW, AAAI, CIKM, DASFAA, WISE, APWeb-WAIM
 
-- **Journal:** TKDE, PR, EAAI, Information Fusion, KBS, ESWA, Neurocomputing, TCSS, WWWJ, BDR
+## Journal Reviewer
+IEEE TKDE, PR, EAAI, Information Fusion, KBS, ESWA, Neurocomputing, TCSS, WWWJ, BDR
